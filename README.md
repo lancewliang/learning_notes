@@ -15,7 +15,7 @@
 redis.xmind: 是redis的知识点梳理  
 机器学习.xmind: 是《西瓜数据》的读书笔记 ，AI从入门到放弃系列  
 梁伟的技术复习资料.xmind: 是《后端架构师技术图谱》https://github.com/xingshaocheng/architect-awesome 的知识点梳理，主要是为了找工作准备的。  
-微服务.xmind: 是在电竞圈工作期间的微服务实践用的知识点，1W左右的并发轻松抗下，毫无压力。  
+微服务.xmind: 是在电竞圈工作期间的微服务实践用的知识点，单服务器200左右的并发轻松抗下，毫无压力。  
 AI for stock.xmind : 是 borisbanushev/stockpredictionai 该做项目作者论文的学习笔记，很有意思的一个论文，纯粹学习，代码没拿到，所以没有深入学习到。  
 
 
